@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 
-<a href="https://heisemmaco-dev.github.io/huddle-landing-page-with-curved-sections-master-heisemmaco-dev/">Live Site</a>
+<a href="https://heisemmaco-dev.github.io/huddle-landing-page-with-curved-sections-master-heisemmaco/">Live Site</a>
 
 ### Built with
 
